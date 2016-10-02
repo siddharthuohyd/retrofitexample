@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
+
+// great yara its done
         if (id == R.id.action_settings) {
             return true;
         }
